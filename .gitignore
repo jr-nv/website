@@ -5,6 +5,12 @@ markdown_files/
 # Temporary files
 sampleajax.md
 
+# Local/generated content (keep out of git)
+BIBLE-VERSES-TO-HTML-WORKFLOW.md
+test.md
+test.html
+blog-post.html
+
 # OS generated files
 .DS_Store
 .DS_Store?
