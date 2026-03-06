@@ -1,6 +1,15 @@
 # Project documentation (local only)
 CLAUDE.md
+README.md
 markdown_files/
+
+# Workflow and template files (local only)
+workflow1.md
+social-embed-instructions.md
+sample.html
+
+# Tools folder — scripts, input markdown files, everything inside (never deployed)
+tools/
 
 # Temporary files
 sampleajax.md
@@ -10,6 +19,7 @@ BIBLE-VERSES-TO-HTML-WORKFLOW.md
 test.md
 test.html
 blog-post.html
+blog-post-sample.html
 
 # OS generated files
 .DS_Store
