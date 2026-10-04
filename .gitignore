@@ -11,6 +11,9 @@ sample.html
 # Tools folder — scripts, input markdown files, everything inside (never deployed)
 tools/
 
+# App folder — local only, never deployed
+app/
+
 # Temporary files
 sampleajax.md
 
